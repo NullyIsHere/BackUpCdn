@@ -3,7 +3,8 @@
 This is a simple project of a backup of CDN servers, i know that Cloudflare CDN
 won't go offline but its a cool project.
 ## Urls
-**n1.backup.cdn.altex.page** - **Github** Pages Hosted CDN
+**n1.backup.cdn.altex.page** - **Github** (This repo) Pages Hosted CDN
+**n2.backup.cdn.altex.page** - **Github** (Another repo) Pages Hosted CDN
 **n2.backup.cdn.altex.page** - **Gitlab** Pages Hosted CDN
 
 ## Resources
@@ -24,4 +25,10 @@ Version: 0.0.0
 ##### AJAX
 Avaliable: False
 Version: 0.0.0
-
+### n3.backup.cdn.altex.page
+##### JQuery
+Avaliable: False
+Version: 0.0.0
+##### AJAX
+Avaliable: False
+Version: 0.0.0
